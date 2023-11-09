@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b6c0a26f36946904a9df9a45bdc5537d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Cracked stone
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 392889ad64224c44798b2f08edd7ecec, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
